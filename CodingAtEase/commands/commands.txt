@@ -1,0 +1,7 @@
+git clone https://github.com/sdipa91/solving-problems.git
+git config --global user.name Sasmita
+git config --global user.email sdipa.50@gmail.com
+touch .gitignore
+git init
+git add .
+git commit -m "Initial Commit"
