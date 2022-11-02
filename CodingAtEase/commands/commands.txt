@@ -5,3 +5,6 @@ touch .gitignore
 git init
 git add .
 git commit -m "Initial Commit"
+git status
+git branch --unset-upstream
+git push -u origin main
