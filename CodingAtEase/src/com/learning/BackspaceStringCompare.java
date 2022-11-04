@@ -26,5 +26,9 @@ public class BackspaceStringCompare {
 		}
 		return String.valueOf(ch);
 	}
+	//Here space complexity can be improved. Plz check next Class for better space complexity with optimal solution.
+	//1st Hint: Utilize the original string
+	//2nd Hint: Use 2 pointer technique.
+	//3rd Hint: Start from the end of the string.
 
 }
